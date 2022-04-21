@@ -24,9 +24,10 @@ body {
   letter-spacing: 0.2rem;
   font-size: 0.6rem;
   opacity: 0.75;
-  margin-bottom: 0;
+  margin-bottom: 10px;
   text-transform: uppercase;
   text-align: center;
   background-color: lightcyan;
+
 }
 
