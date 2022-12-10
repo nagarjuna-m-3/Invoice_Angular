@@ -1,5 +1,8 @@
 
 Invoice Management System 
 
-A frontend (Angular Material), Spring Boot and MySQL.
+frontend - Angular,
+backend - Spring Boot, 
+DB - MySQL.
+
 CRUD operations
